@@ -1,0 +1,1 @@
+A simple example for Generating Server Code from OpenAPI Specification. Detailed article can be found here https://dvignesh1496.medium.com/golang-server-code-generation-from-openapi-specification-5b4e5aa7cee
